@@ -12,7 +12,7 @@ domain: forrestxyuan.github.io
 all_categories: [
 ["Programming", "编程与开发","/posts/android.html"], 
 ["read", "读书笔记","/posts/read.html"], 
-["Living", "生活随笔","/posts/other.html"],
+["lving", "生活随笔","/posts/other.html"],
 ["about", "关于","/about.html"]
 ]
 
