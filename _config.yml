@@ -10,9 +10,9 @@ name: "xyuan个人博客"
 url: http://forrestxyuan.github.io
 domain: forrestxyuan.github.io
 all_categories: [
-["Programming", "编程与开发","/posts/android.html"], 
+["Programming", "编程与开发","/posts/programming.html"], 
 ["read", "读书笔记","/posts/read.html"], 
-["lving", "生活随笔","/posts/other.html"],
+["lving", "生活随笔","/posts/living.html"],
 ["about", "关于","/about.html"]
 ]
 
