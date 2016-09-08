@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "read"
-title:  "第二篇博文？编程[测试]"
+title:  "第二篇博文？[测试]"
 tags: [阅读,人生]
 ---
 ### 哪个更重要？
