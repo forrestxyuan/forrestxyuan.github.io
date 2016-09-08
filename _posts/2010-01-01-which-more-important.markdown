@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "read"
+category: "programming"
 title:  "第一篇博文？[测试]"
 tags: [阅读,人生]
 ---
