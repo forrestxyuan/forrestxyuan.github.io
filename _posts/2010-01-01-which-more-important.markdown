@@ -1,10 +1,10 @@
 ---
 layout: post
-category: "programming"
-title:  "Hello World[测试]"
-tags: [test]
+category: "read"
+title:  "人生什么更重要？[测试]"
+tags: [阅读,人生]
 ---
-### Hello World
+### 哪个更重要？
 
 >方向比努力重要，  
 >身体比金钱重要，  
