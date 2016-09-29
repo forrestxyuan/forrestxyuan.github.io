@@ -113,4 +113,5 @@ pip install protobuf
 ---
 **参考:**  
 _http://caffe.berkeleyvision.org/_    
-_http://hoondy.com/2015/04/03/how-to-install-caffe-on-mac-os-x-10-10-for-dummies-like-me/_   
+_http://hoondy.com/2015/04/03/how-to-install-caffe-on-mac-os-x-10-10-for-dummies-like-me/_  
+ 
