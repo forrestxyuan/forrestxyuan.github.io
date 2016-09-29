@@ -1,7 +1,7 @@
 ---
 layout: post
 category: "programming"
-title:  "第二篇"
+title:  "Mac OSX下Caffe（Python接口，无GPU）的安装"
 tags: [Caffe,Pycaffe,Deep Learning,Machine Learning, Mac OSX]
 ---
 
